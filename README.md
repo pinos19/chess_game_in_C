@@ -40,6 +40,6 @@ A couple of move after we've got this
 
 # Visualize a game
 
-We have the ability to review a party finished or unfinished. The review can be done manually or automatically, for the manual review, you just have to press "p" for preious move and "s" for the next move.
+We have the ability to review a party finished or unfinished. The review can be done manually or automatically, for the manual review, you just have to press "p" for previous move and "s" for the next move.
 
 <img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/visualisationPartieManuelle.PNG"/>
