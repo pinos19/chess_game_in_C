@@ -2,7 +2,7 @@
 
 Creation of a chess game in C, profiles configuration, play against an AI, integration of a timer, visualisation of ended games, saving and loading functionnalities
 
-First we have the main menu
+First we have the main menu.
 
 <img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/menuPrincipal.PNG"/>
 
@@ -12,7 +12,7 @@ There we can choose to play a new game, to finish an unfinished game, to view th
 
 <img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/menuAide.gif"/>
 
-All the rules which are displayed on the help are implemented in the code
+All the rules which are displayed on the help are implemented in the code.
 
 # Create a profile
 
