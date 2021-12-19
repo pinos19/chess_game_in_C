@@ -10,7 +10,7 @@ There we can choose to play a new game, to finish an unfinished game, to view th
 
 # Display the rules
 
-<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/lesRegles.PNG"/>
+<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/menuAide.gif"/>
 
 All the rules which are displayed on the help are implemented in the code
 
@@ -18,28 +18,23 @@ All the rules which are displayed on the help are implemented in the code
 
 To play the game, you have to create a profile with an username and a password, the application allows you to visualize your wins, draws and losses.
 
-<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/creationProfil.PNG"/>
-
-An example of profile's statistics
-
-<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/observationProfil.PNG"/>
+<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/gestionProfils.gif"/>
 
 # Play a new game
 
-<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/jouerUneNouvellePartie.PNG"/>
-
-<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/debutPartie.PNG"/>
+<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/nouvellePartie.gif"/>
 
 We have on the chessboard a timer fixed by the players before launching the game. This timer doesn't make the application blink. I used a technique to update only the space where the timer is, so it is just the timer blinking, not all the application.
-
-<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/plateauEtTimer.PNG"/>
-
-A couple of move after we've got this
-
-<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/jouons.PNG"/>
 
 # Visualize a game
 
 We have the ability to review a party finished or unfinished. The review can be done manually or automatically, for the manual review, you just have to press "p" for previous move and "s" for the next move.
 
-<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/visualisationPartieManuelle.PNG"/>
+<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/visualisationPartie.gif"/>
+
+# Resume a game
+
+We have the ability to resume a game which was not finished.
+
+<img src="https://github.com/pinos19/chess_game_in_C/blob/main/images/reprisePartie.gif"/>
+
